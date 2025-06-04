@@ -1,2 +1,2 @@
-# mobile-sales-dashboard
-A Power BI dashboard project analyzing mobile phones sales data. This report provides insights into sales trends, brand performance, regional distributions, and key KPIs to support strategic decision-making in the mobile industry. 
+# Mobile Sales Dashboard – Power BI Project
+This Power BI project analyzes mobile phone sales data to uncover insights and trends related to product performance, regional sales, customer preferences, and overall business performance. It provides an interactive dashboard for decision-makers to monitor key metrics and make data-driven decisions.
