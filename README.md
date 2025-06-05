@@ -17,8 +17,7 @@ The dataset contains sales data of mobile phones, including:
 - **Category** – Type (Smartphone/Feature phone/etc.)  
 - **Units Sold** – Quantity sold  
 - **Unit Price** – Price per unit  
-- **Total Sales** – Calculated revenue  
-- **Region** – Location of the sale  
+- **Total Sales** – Calculated revenue    
 - **Salesperson** – Employee handling the sale  
 - **Customer Segment** – Type of buyer (Retail/Corporate)
 
@@ -40,12 +39,14 @@ The dataset contains sales data of mobile phones, including:
 - Sales trend line chart  
 - Regional sales map  
 - Product performance bar charts  
-- Customer segmentation pie chart  
+- Customer segmentation pie chart
+- <img width="625" alt="Mobile sales_ Dashboard_Image" src="https://github.com/user-attachments/assets/d74cb861-3eff-4357-a135-d512ac910291" />
+ 
 
 ## 🚀 How to Use
 1. Clone the repository  
 2. Open the `.pbix` file in Power BI Desktop  
-3. Connect to the dataset (if needed)  
+3. Connect to the dataset  
 4. Interact with the filters and visuals
 
 ## 📌 Use Cases
@@ -54,8 +55,4 @@ The dataset contains sales data of mobile phones, including:
 - Inventory management  
 - Customer behavior analysis  
 
-## 👤 Author
-**Trupti Patil**  
-Data Analyst | Power BI Developer  
-📧 patiltrupti002@gmail.com
-📍 India
+
